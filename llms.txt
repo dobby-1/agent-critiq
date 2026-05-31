@@ -1,0 +1,40 @@
+# Agent Critiq
+
+> The premier independent AI software directory, agential intelligence hub, and performance discovery matrix.
+
+Agent Critiq provides expert, unbiased, B2B-grade technical reviews, cost-efficiency calculations, and prompt specifications for autonomous coding agents, Large Language Models (LLMs), and generative AI platforms.
+
+## Core Interactive Tools
+
+- [AI Cost Calculator](https://agentcritiq.com/tools/calculator): Estimate monthly B2B infra vs human labor savings when switching to AI workflows.
+- [AI Match Quiz & Compatibility Test](https://agentcritiq.com/tools/quiz): Solve a 60-second interactive quiz to match goals, budget, expertise, and runtime environments with the perfect AI tool stack.
+- [Visual Output Gallery](https://agentcritiq.com/gallery): Browse actual high-fidelity visual, video, and audio generations from leading generative engines with complete prompt lists and specs.
+- [Compare Hub](https://agentcritiq.com/compare): Side-by-side technical and operational comparisons of leading AI competitors.
+
+## Featured Software Reviews & Editor Ratings
+
+### Autonomous Coding & Developer Tools
+- [Cursor](https://agentcritiq.com/review/cursor): Evolved AI-first IDE fork of VS Code. Editor Rating: 9.4/10. Key metrics: context window support, Composer multi-file edits.
+- [Devin AI](https://agentcritiq.com/review/devin-ai): The world's first autonomous software engineer agent by Cognition. Editor Rating: 9.2/10. Key metrics: sandbox shell execution, terminal loop debugging.
+- [Tabnine](https://agentcritiq.com/review/tabnine): Private, context-aware self-hosted code autocomplete. Editor Rating: 8.8/10. Key metrics: security certifications, VPC deploy capability.
+
+### Generative Media & Visual Engines
+- [Midjourney](https://agentcritiq.com/review/midjourney): Leading aesthetic image engine. Editor Rating: 9.3/10. Key metrics: v6 style raw photorealism, custom aspect-ratio scales.
+- [Runway Gen-3](https://agentcritiq.com/review/runway-gen-2): High-motion, cinematic video synthesis. Editor Rating: 9.0/10. Key metrics: temporal consistency, motion brush control.
+- [ChatGPT Plus / DALL-E 3](https://agentcritiq.com/review/chatgpt-plus): Semantic instruction accuracy. Editor Rating: 9.1/10. Key metrics: GPT-4o intelligence, custom GPTS store.
+- [Ideogram](https://agentcritiq.com/review/ideogram-ai): Elite typography and text-rendering art engine. Editor Rating: 8.9/10. Key metrics: v2.0 text accuracy, fluid neon glass styles.
+
+### Generative Audio & Voice Synth
+- [Suno AI](https://agentcritiq.com/review/suno-ai): Cyberpunk rock and vocal song generation. Editor Rating: 8.9/10. Key metrics: v3.5 generation parameters, multi-track export.
+- [Udio AI](https://agentcritiq.com/review/udio): Cozy jazz, acoustic, and high-fidelity vocal music. Editor Rating: 8.8/10. Key metrics: v1.5 lofi synth, vinyl hiss control.
+
+### Autonomous Automations & Scrapers
+- [Browse AI](https://agentcritiq.com/review/browse-ai): No-code robotic web scraper agent. Editor Rating: 8.7/10. Key metrics: API webhook delivery, CSV export automation.
+
+## Platform Identity & Verification Links
+*   **Official Website:** https://agentcritiq.com
+*   **RSS Feeds (Structured XML):**
+    *   Turkish Feed: https://agentcritiq.com/rss-tr.xml
+    *   English Feed: https://agentcritiq.com/rss-en.xml
+    *   Spanish Feed: https://agentcritiq.com/rss-es.xml
+*   **Sitemap Index:** https://agentcritiq.com/sitemap.xml
